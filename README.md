@@ -25,6 +25,17 @@ It asks for:
 
 Then it estimates maximum heart rate and gives simple zone ranges.
 
+## Project 3: Patient Vitals Summary
+
+The third exercise introduces simple healthcare data analysis using a CSV file.
+
+It reads sample patient vital signs and calculates:
+
+- Average heart rate
+- Average systolic blood pressure
+- Average body temperature
+- Simple alerts for values that need attention
+
 ## Why This Project Matters
 
 Even simple healthcare-related projects help me practice:
@@ -35,6 +46,8 @@ Even simple healthcare-related projects help me practice:
 - Conditional logic
 - Clear documentation
 - Basic healthcare formulas
+- Reading CSV files
+- Working with small healthcare datasets
 
 ## Disclaimer
 
