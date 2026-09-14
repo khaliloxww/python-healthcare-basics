@@ -15,6 +15,16 @@ It asks for:
 
 Then it calculates BMI and gives a basic category.
 
+## Project 2: Heart Rate Zones
+
+The second exercise estimates basic heart rate training zones from age.
+
+It asks for:
+
+- Age
+
+Then it estimates maximum heart rate and gives simple zone ranges.
+
 ## Why This Project Matters
 
 Even simple healthcare-related projects help me practice:
@@ -24,6 +34,7 @@ Even simple healthcare-related projects help me practice:
 - Functions
 - Conditional logic
 - Clear documentation
+- Basic healthcare formulas
 
 ## Disclaimer
 
